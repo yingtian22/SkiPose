@@ -1,9 +1,9 @@
 ### 🎥 Example (GIFs)
 
 <p align="center">
-  <img src="Gifs/output.gif" width="320" alt="Original video">
-  <img src="Gifs/AlphaPose_output.gif" width="320" alt="2D keypoints">
-  <img src="Gifs/X3D.gif" width="320" alt=3D keypoints">
+  <img src="Gifs/output.gif" width="220" alt="Original video">
+  <img src="Gifs/AlphaPose_output.gif" width="220" alt="2D keypoints">
+  <img src="Gifs/X3D.gif" width="220" alt=3D keypoints">
 </p>
 
 
