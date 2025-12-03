@@ -1,4 +1,4 @@
-### 🎥 Example (GIFs)
+### 🎥 Example
 
 <p align="center">
   <img src="Gifs/example.gif" width="1000" alt="example gif">
