@@ -1,3 +1,11 @@
+### 🎥 Example (GIFs)
+
+<p align="center">
+  <img src="Gifs/output2.gif" width="220" alt="Original video">
+  <img src="Gifs/AlphaPose_output2.gif" width="220" alt="2D keypoints">
+  <img src="Gifs/X3D2.gif" width="220" alt=3D keypoints">
+</p>
+
 # Dataset Description
 
 This dataset is a motion capture record of a skier's dynamic movements, collected using an Inertial Measurement Unit (IMU).  
@@ -67,16 +75,6 @@ The combination of **3D position** and **orientation** for each keypoint enables
 - Detailed analysis of whole-body motion patterns  
 - Evaluation of algorithms in **dynamic, real-world skiing scenarios**  
 - Training and validation of machine learning models that require both positional and rotational information
-
-
-### 🎥 Example (GIFs)
-
-<p align="center">
-  <img src="Gifs/output2.gif" width="220" alt="Original video">
-  <img src="Gifs/AlphaPose_output2.gif" width="220" alt="2D keypoints">
-  <img src="Gifs/X3D2.gif" width="220" alt=3D keypoints">
-</p>
-
 
 ## Acknowledgement
 This project has benefited from the following work, and we sincerely thank all contributors: 
