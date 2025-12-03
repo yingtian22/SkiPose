@@ -1,10 +1,14 @@
 ### 🎥 Example (GIFs)
 
 <p align="center">
+  <img src="Gifs/example.gif" width="1000" alt="example gif">
+</p>
+
+<!-- <p align="center">
   <img src="Gifs/output2.gif" width="220" alt="Original video">
   <img src="Gifs/AlphaPose_output2.gif" width="220" alt="2D keypoints">
   <img src="Gifs/X3D2.gif" width="220" alt=3D keypoints">
-</p>
+</p> -->
 
 # Dataset Description
 
